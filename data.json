@@ -1,0 +1,37 @@
+[
+  {
+    "_id": "627a1e3d7fc29ea8f0038cb5",
+    "name": "Brinda",
+    "email": "brindap@gmail.com",
+    "phone": 3567289356,
+    "__v": 0
+  },
+  {
+    "_id": "627a310776666dfdd07c3cda",
+    "name": "Chetan",
+    "email": "chetan@gmail.com",
+    "phone": 8563751234,
+    "__v": 0
+  },
+  {
+    "_id": "627b41911b819c012ccf434c",
+    "name": "Sudha",
+    "email": "sudha@gmail.com",
+    "phone": 3425623451,
+    "__v": 0
+  },
+  {
+    "_id": "627c99a01b9c50578c5dca9a",
+    "name": "Manisha",
+    "email": "manisha@gmail.com",
+    "phone": 7623498172,
+    "__v": 0
+  },
+  {
+    "_id": "627c9ebff90ba909b27241c0",
+    "name": "Yash",
+    "email": "yash@gmail.com",
+    "phone": 3567283256,
+    "__v": 0
+  }
+]
